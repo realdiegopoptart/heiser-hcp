@@ -2,15 +2,15 @@ Write a program that reads in four strings and prints the lexicographic minimum 
 
  
 
-    compareTo()  Compares strings to determine alphabetic location.  Returns a zero if the two strings are equal, a negative if the first string is alphabetically before the compared string, and a positive if the first string is alphabetically after the compared string.
+compareTo()  Compares strings to determine alphabetic location.  Returns a zero if the two strings are equal, a negative if the first string is alphabetically before the compared string, and a positive if the first string is alphabetically after the compared string.
     Example:
-    ```java
+   ```java
     String subject = "mathematics";
     boolean answer;
     answer = subject. compareTo ("biology"); // returns is a positive
     answer = subject. compareTo("philosophy"); // answer is negative
     answer = subject.compareTo (" mathematics"); //answer is zero
-    ```
+   ```
 
 `StringComparerTest class`
 
