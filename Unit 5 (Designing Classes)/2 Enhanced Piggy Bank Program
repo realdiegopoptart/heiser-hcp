@@ -1,0 +1,14 @@
+In this lab, we will enhance our piggy bank program by using multiple classes. This will allow us to create a piggy bank object to keep track of the number of coins and total value. The java files are provided in an attachment for this assignment but they are incomplete. Finish the java files for the program so it tracks the number of coins in a piggy bank and calculates the total in the bank.
+
+PiggyBank_5f64d809a04b6.jpeg
+
+        Copy and paste the piggy bank files below to your unit 5 Multiple Class src folder (use file explorer)
+        In the piggyBank class, declare and initialize constant variables using the final keyword. You should have 4 final variables, one for each coin type.
+        Declare and initialize instance variables to keep track of the number of coins in the piggy bank.
+        Complete the parameter variables for the constructor and initialize the instance variables by assigning the parameter variable to the instance variables. (You can use the keyword "this" to refer to the instance variables but it is not required. 
+        Fix all errors for the methods.
+        Open the Piggy Bank Test class and create an instance of the piggyBank class. Complete the code to get user input for dimes and quarters. Pass the data to the piggyBank class through the object parameters. Create print statements to produce the console output below.
+        Extended Learning: create a method or methods to add coins and test. Use a loop for user input and creating PiggyBank objects (you will need to create an array to store object references).
+
+ 
+
